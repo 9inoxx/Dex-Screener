@@ -34,7 +34,7 @@ Tick Probabilities for Pair Data:
 | Probability of Downtick  | 0.5517241379310345 |
 | Probability of No Change |        0.0         |
 +--------------------------+--------------------+
-------
+
  chainId    dexId                                   pairAddress baseToken  \
 0  solana  raydium  8pnmpHUWgb1hPeFyM8DHgyRsaiWGp9qJ98eTzgTbhD8T      TOWD   
 1  solana  raydium  66cxXqzCpFttLCdMBXYykjfCEVQKag8Cv1oB5KEacd5b     PUFFY   
